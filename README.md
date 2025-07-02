@@ -27,10 +27,10 @@ This project uses **machine learning** techniques and **Explainable AI (XAI)** t
 
 
 2. Install dependencies:
-  '' pip install -r requirements.txt ''
+   "pip install -r requirements.txt"
 
 
-3. Run Streamlit App:
+4. Run Streamlit App:
  streamlit run app.py
 
 
@@ -43,11 +43,13 @@ We used SHAP to understand the internal decision-making of the model. It helps:
 
 
 
-''🧑‍💻 Author''
+**🧑‍💻 Author**
+
 Srushti Sarode
 
 
-''📜 License''
+**📜 License**
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
