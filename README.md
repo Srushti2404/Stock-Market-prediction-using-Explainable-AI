@@ -33,7 +33,7 @@ This project uses **machine learning** techniques and **Explainable AI (XAI)** t
 
 4. Run Streamlit App:
 
- streamlit run app.py
+   streamlit run app.py
 
 
 ## 🔍 Explainable AI
