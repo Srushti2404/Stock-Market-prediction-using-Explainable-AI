@@ -25,22 +25,27 @@ This project uses **machine learning** techniques and **Explainable AI (XAI)** t
    ```bash
    git clone https://github.com/Srushti2404/Stock-Market-prediction-using-Explainable-AI.git
 
+
 2. Install dependencies:
-pip install -r requirements.txt
+  pip install -r requirements.txt
+
 
 3. Run Streamlit App:
-streamlit run app.py
+ streamlit run app.py
 
 
 🔍 Explainable AI
 We used SHAP to understand the internal decision-making of the model. It helps:
 
 --Identify the impact of features like Open, High, Volume, etc.
+
 -Detect bias and improve trust in AI predictions
+
 
 
 🧑‍💻 Author
 Srushti Sarode
+
 
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
