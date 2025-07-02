@@ -27,10 +27,12 @@ This project uses **machine learning** techniques and **Explainable AI (XAI)** t
 
 
 2. Install dependencies:
+
    "pip install -r requirements.txt"
 
 
 4. Run Streamlit App:
+
  streamlit run app.py
 
 
