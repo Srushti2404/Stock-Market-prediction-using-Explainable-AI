@@ -34,8 +34,9 @@ This project uses **machine learning** techniques and **Explainable AI (XAI)** t
  streamlit run app.py
 
 
-**🔍 Explainable AI**
+## 🔍 Explainable AI
 We used SHAP to understand the internal decision-making of the model. It helps:
+
 
 --Identify the impact of features like Open, High, Volume, etc.
 
